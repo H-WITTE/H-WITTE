@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H-WITTE!
-- 📫 How to reach me: it@witte-rhede.de
+- 📫 How to reach me: it (AT) witte-rhede (DOT) de
 
 <!---
 H-WITTE/H-WITTE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
